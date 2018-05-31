@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c950b4c6-dc9e-457a-8692-e61df22addee" name="MyRemotServer" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\T180P\Desktop\Tong\myjs" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
